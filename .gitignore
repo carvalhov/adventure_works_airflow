@@ -1,0 +1,5 @@
+airflow-venv
+aifrlow-data/logs
+airflow-data/standalone_admin_password.txt
+airflow-data/airflow.db
+airflow-data/airflow-webserver.pid
